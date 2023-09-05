@@ -1,0 +1,39 @@
+
+* {
+    font-family: 'Tangerine', cursive;
+    margin: 0;
+}
+
+html, body {
+    height:100%;
+}
+
+img {
+    display: block;
+    max-width: 25%;
+    height: auto;
+}
+
+#bigger {
+    font-size: 25px;
+}
+
+#location{
+    text-decoration: none;
+}
+
+#location:link{
+    color:blue;
+}
+#location:visited{
+    color:blue;
+}
+#location:hover{
+    color:blue;
+}
+#location:focus{
+    color:blue;
+}
+#location:active{
+    color:blue;
+}

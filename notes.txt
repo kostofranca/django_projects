@@ -1,0 +1,1 @@
+Model, url ve viewları poll, question, choice üçlüsüne göre yeniden ayarlama işlemini yapıp tutoriala devam et!
